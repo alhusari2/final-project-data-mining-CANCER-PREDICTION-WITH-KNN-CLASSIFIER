@@ -1,20 +1,6 @@
 # final-project-data-mining-CANCER-PREDICTION-WITH-KNN-CLASSIFIER
 Halo semuanya thank u udah baca ini. Jadi ini merupakan salah satu final projectku di semester 4 dari mata kuliah Data Mining di sini kelompokku membuat project mendeteksi kanker menggunakan KNN Classifier
 
-luka bakar adalah suatu bentuk kerusakan pada 
-lapisan kulit manusia paling luar sebagai akibat 
-kontak langsung dengan sumber panas, di 
-Indonesia sendiri korban jiwa akibat luka bakar lebih 
-dari 250 jiwa per tahun. Perhitungan luas luka bakar 
-merupakan salah satu komponen penting dalam 
-tahap exposure pada primary survey. Estimasi luas 
-luka bakar penting untuk dilakukan karena hasil 
-perhitungan ini akan digunakan dalam rumus untuk 
-menghitung cairan resusitasi. Pengolahan Citra 
-Digital selalu hadir dalam bidang apapun termasuk 
-medis, maka diperlukan diperlukan suatu metode 
-untuk segmentasi area luka bakar yang cukup 
-mudah untuk dilakukan. Dengan menerapkan 
-metode level set dan K-Means clustering, hasil yang 
-diperoleh segmentasi berupa daerah area luka 
-bakar.
+Menurut World Health Organization (WHO) pada tahun 2014, kanker adalah penyakit yang menyerang sel-sel dalam tubuh manusia. Sel-sel dalam tubuh akan terus berkembang secara abnormal. Jika tidak ditangani dengan baik, penyakit kanker akan sangat membahayakan nyawa pasiennya. Jumlah penyakit kanker semakin meningkat tiap tahunnya. 
+Penyakit kanker muncul dikarenakan gaya hidup yang tidak baik. Banyak faktor yang mempengaruhi penyakit kanker. Faktor-faktor tersebut antara lain polusi udara, genetic, minuman beralkohol, penyakit kronis bawaan, merokok dan alergi debu. Hingga saat ini peneliti masih melakukan penelitian lebih lanjut tentang factor-faktor lainnya.
+Oleh karena itu, kelompok kami akan melakukan penelitian mengenai faktor-faktor yang mempengaruhi kanker. Kelompok kami akan mengolah data dengan metode KNN Classifier. Dengan penelitian ini diharapkan dapat mengurangi dan mengidentifikasi factor-faktor yang menyebabkan kanker.
